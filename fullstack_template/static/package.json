@@ -1,0 +1,11 @@
+{
+  "name": "static",
+  "version": "0.1.0",
+  "description": "Practice setting up Python server with React",
+  "main": "index.js",
+  "author": "Daniel Pencak <danielpencak@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}
