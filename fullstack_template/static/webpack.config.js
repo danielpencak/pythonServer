@@ -12,7 +12,7 @@ const config = {
   module: {
     rules: [
       {
-        test: /\>jxs?/,
+        test: /\.jsx?/,
         exclude: /node_modules/,
         use: 'babel-loader'
       }
